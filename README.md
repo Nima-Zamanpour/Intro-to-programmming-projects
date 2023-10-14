@@ -5,6 +5,6 @@ My projects for the Introduction to computer and Programming course. All are wri
 
 **Pentagool**: a modified version of Pentago game with graphics.
 
-![pentago board game.](https://play.google.com/store/apps/details?id=com.vlad.pentago&hl=fa&gl=US)
+![pentago board game.](https://play-lh.googleusercontent.com/rVSZk7BBeIKCa97j1GhHFzrizAqr0mmZXddBroAAStf0th78PGJhe2lhy81GDV3OTA)
 
 **Snake game**: My first experience with C++ classes in a command line snake game.
